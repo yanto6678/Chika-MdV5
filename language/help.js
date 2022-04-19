@@ -355,6 +355,7 @@ return`
 ├ ${prefix}bcall [text]
 ├ ${prefix}setppbot [image]
 ├ ${prefix}setexif
+├ ${prefix}setmenu
 └───────
 
 ┌── 「 *Thanks To* 」
@@ -811,6 +812,7 @@ exports.ownermenu = (prefix) => {
 ├ ${prefix}bcall [text]
 ├ ${prefix}setppbot [image]
 ├ ${prefix}setexif
+├ ${prefix}setmenu
 └───────
 `
 }
